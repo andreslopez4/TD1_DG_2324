@@ -1,0 +1,52 @@
+body {
+    background-color: #403F3F;
+}
+
+
+header {
+    background-color: #2A2A2A;
+}
+
+h1{
+    font-size: 40px;
+    text-align: center;
+    font-family:sans-serif;
+    color: white;
+}
+
+h2 {
+    font-family: sans-serif;
+    padding-top: 2%;
+    text-align: center;
+    color: white;
+}
+
+.section {
+    background-color: #2A2A2A;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja1 {
+
+    background-color: #403F3F;
+    width: 300%;
+    height: 150%;
+    
+}
+
+img {
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    width: 20%;
+    height: auto;
+    filter: saturate(0);
+    border-radius: 5%;
+    padding: 5%;
+}
+
+a:hover img {
+    filter: saturate(1);
+}
