@@ -1,0 +1,146 @@
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+body {
+	background-color:crimson;
+	
+	.caja1 {
+		background-color:rgb(255, 255, 255);
+			width: 989px;
+			height: 60px;
+			margin: 10px auto;
+			padding-top: 20px;
+			padding-left: 35px;
+	}
+	.caja2 {
+		background-color:rgb(255, 255, 255);
+		width: 1024px;
+		height: 200px;
+		margin: 10px auto;
+		border: 3px solid white;
+		overflow: scroll;
+
+	}
+
+	.contenedor1 {
+		width: 1024px;
+		height: 200px;
+		margin: 10px auto;
+	
+	.caja3 {
+		float: right ;
+		background-color:rgb(255, 255, 255);
+		width: 500px;
+		height: 200px;
+		margin: 10px auto;
+		border: 3px solid white;
+	}
+
+	.lista {
+		padding-top: 80px;
+		text-align: center;
+	}
+
+	li{
+		display: inline;
+		list-style: none;
+	}
+
+	}
+	.caja4 {
+		float: left;
+		background-color:rgb(255, 255, 255);
+		width: 500px;
+		height: 200px;
+		margin: 10px auto;
+		border: 3px solid white;
+
+	}
+	.enc3 {
+		font-size: 40px;
+		border: solid;
+		text-align: center;
+		margin: 80px;
+	}
+	.caja5 {
+		background-color:black;
+		width: 1024px;
+		height: 200px;
+		margin: 10px auto;
+		margin-top: 30px;
+		border: 3px solid white;
+
+	}
+
+	.contenedor2 {
+		width: 1024px;
+		height: 200px;
+		margin: 10px auto;
+	
+	.caja6 {
+		float: right ;
+		background-color:black;
+		width: 500px;
+		height: 200px;
+		margin: 10px auto;
+		border: 3px solid white;
+	}
+	.caja7 {
+		float: left;
+		background-color:black;
+		width: 500px;
+		height: 200px;
+		margin: 10px auto;
+		border: 3px solid white;
+
+	}
+	}
+
+}
