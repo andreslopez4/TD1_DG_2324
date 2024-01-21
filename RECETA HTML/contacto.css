@@ -1,0 +1,24 @@
+body {
+    background-color: #EAD9D9;
+    }
+    
+    h1 {
+    color: #786464;
+    font-size: size 35px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    }
+    
+    h3 {
+        color: #EAD9D9;
+        text-align: center;
+        background-color: #786464;
+    }
+    
+    p {
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #786464;
+    }
+    
+    

@@ -1,0 +1,171 @@
+.row1 {
+
+    height: 300px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+   
+
+}
+
+.row2 {
+
+    height: 300px;
+    width: 900px;
+    align-items: center;
+    display: flex;
+    justify-items: center;
+    align-content: center;
+    justify-content: center;
+    
+}
+
+.row3 {
+
+    height: 300px;
+    width: 900px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.box {
+
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+
+}
+
+.h1 {
+
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
+}
+
+.p1 {
+    font-size: 18px;
+    text-align: center;
+    font-family: 'Grape Nuts', cursive;
+    margin: 4px;
+}
+
+.h2 {
+
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Climate Crisis', sans-serif;
+    padding-bottom: 40px;
+    padding-top: 20px;
+}
+
+.p2 {
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Climate Crisis', sans-serif;
+    margin: 4px;
+}
+
+.h3 {
+
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Kalnia', serif;
+}
+
+.p3 {
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Kalnia', serif;
+    margin: 4px;
+}
+
+.h4 {
+
+    font-size: 35px;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.p4 {
+    font-size: 13px;
+    text-align: center;
+    font-family: 'IBM Plex Mono', monospace;
+    margin: 4px;
+}
+
+.h5 {
+
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Lobster', sans-serif;
+}
+
+.p5 {
+    font-size: 16px;
+    text-align: center;
+    font-family: 'Lobster', sans-serif;
+    margin: 4px;
+}
+
+.h6 {
+
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Moirai One', system-ui;
+}
+
+.p6 {
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Moirai One', system-ui;
+    margin: 4px;
+}
+
+.h7 {
+
+    font-size: 35px;
+    text-align: center;
+    font-family: 'Noto Sans Indic Siyaq Numbers', sans-serif;
+}
+
+.p7 {
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Noto Sans Indic Siyaq Numbers', sans-serif;
+    margin: 4px;
+}
+
+.h8 {
+
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    padding-bottom: 18px;
+}
+
+.p8 {
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Permanent Marker', cursive;
+    margin: 4px;
+}
+
+.h9 {
+
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Rubik Burned', system-ui;
+    padding-bottom: 28px;
+}
+
+.p9 {
+    font-size: 13px;
+    text-align: center;
+    font-family: 'Rubik Burned', system-ui;
+    margin: 4px;
+}
